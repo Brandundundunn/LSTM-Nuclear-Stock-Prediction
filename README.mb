@@ -1,0 +1,12 @@
+📈 LSTM Nuclear Stock Prediction Model
+🚀 Overview
+
+This project implements a Long Short-Term Memory (LSTM) deep learning model to predict nuclear-related stock prices.
+It leverages historical stock market data, processes it with time-series techniques, and trains an LSTM network to forecast future price trends.
+
+🛠 Features
+    - Data preprocessing (cleaning, scaling, splitting into train/test sets).
+    - Sequential modeling with Keras/TensorFlow.
+    - LSTM layers optimized for time-series forecasting.
+    - Visualization of predictions vs actual stock values.
+    - Customizable for different stock tickers or time windows.
