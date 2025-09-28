@@ -10,3 +10,9 @@ It leverages historical stock market data, processes it with time-series techniq
     - LSTM layers optimized for time-series forecasting.
     - Visualization of predictions vs actual stock values.
     - Customizable for different stock tickers or time windows.
+
+📊 Results
+
+    - The model learns temporal patterns in stock movements.
+    - Produces prediction graphs comparing actual vs predicted values.
+    - Provides insight into market trends for nuclear sector stocks.
